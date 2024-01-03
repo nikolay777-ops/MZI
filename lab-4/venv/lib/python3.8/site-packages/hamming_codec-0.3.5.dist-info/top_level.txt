@@ -1,0 +1,3 @@
+_hamming_codec
+cli
+hamming_codec
